@@ -44,6 +44,5 @@ Para obtener una copia local de este proyecto en tu máquina, sigue los pasos a 
 2. **Ejecuta el siguiente comando** para clonar el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-  cd nombre-del-repositorio
-  ```bash
+   git clone https://github.com/Alex-coder-software/Conversor-de-Divisas.git
+   cd Conversor-de-Divisas
