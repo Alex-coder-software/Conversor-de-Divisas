@@ -18,8 +18,8 @@ Este proyecto es una **Aplicación Conversor de Divisas** desarrollada en Python
 
 ## Cómo Usar la Aplicación
 
-1. **Introduce la Moneda de Origen:** Ingresa el código de la moneda (por ejemplo, USD para el Dólar Estadounidense) desde la que deseas convertir.
-2. **Introduce la Moneda de Destino:** Ingresa el código de la moneda (por ejemplo, EUR para el Euro) a la que deseas convertir.
+1. **Introduce la Moneda de Origen:** Ingresa el código de la moneda (por ejemplo, USD para el Dólar Estadounidense) desde la que deseas convertir (Tienes el código de la divisas que busques en el archivo "divisas.txt").
+2. **Introduce la Moneda de Destino:** Ingresa el código de la moneda (por ejemplo, EUR para el Euro) a la que deseas convertir (Tienes el código de la divisas que busques en el archivo "divisas.txt").
 3. **Introduce la Cantidad:** Ingresa la cantidad de dinero que deseas convertir.
 4. **Haz Clic en 'Calcular':** El monto convertido se mostrará en pantalla.
 
