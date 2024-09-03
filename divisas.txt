@@ -1,0 +1,272 @@
+Os dejo el código de todas las divisas del mundo en este archivo, ya que en el programa hay que meter las tres letras que aparecen en la columna "Código"
+He sacado los datos de la siguiente web: https://es.iban.com/currency-codes
+
+País	Divisa	Código	Número
+AFGANISTÁN	Afgani afgano	AFN	971
+ALBANIA	Lek	ALL	008
+ALEMANIA	Euro	EUR	978
+ALGERIA	Dinar argelino	DZD	012
+ANDORRA	Euro	EUR	978
+ANGOLA	Kwanza angoleño	AOA	973
+ANGUILLA	Dólar del Caribe Oriental	XCD	951
+ANTIGUA Y BARBUDA	Dólar del Caribe Oriental	XCD	951
+ANTÁRTICA	Sin divisa universal		
+ARABIA SAUDITA	Riyal saudí	SAR	682
+ARGENTINA	Peso argentino	ARS	032
+ARMENIA	Dram armenio	AMD	051
+ARUBA	Florín arubeño	AWG	533
+AUSTRALIA	Dólar australiano	AUD	036
+AUSTRIA	Euro	EUR	978
+AZERBAIYÁN	Manat azerbaiyano	AZN	944
+BAHAMAS (LAS)	Dólar bahameño	BSD	044
+BANGLADESH	Taka	BDT	050
+BARBADOS	Dólar de Barbados	BBD	052
+BARÉIN	Dinar bareiní	BHD	048
+BELICE	Dólar beliceño	BZD	084
+BENÍN	Franco CFA de África Occidental	XOF	952
+BERMUDA	Dólar bermudeño	BMD	060
+BIELORRUSIA	Rublo bielorruso	BYR	974
+BIRMANIA	Kyat birmano	MMK	104
+BOLIVIA (ESTADO PLURINACIONAL DE)	Boliviano	BOB	068
+BOLIVIA (ESTADO PLURINACIONAL DE)	Mvdol	BOV	984
+BONAIRE, SAN EUSTAQUIO Y SABA	Dólar estadounidense	USD	840
+BOSNIA Y HERZEGOVINA	Marco bosnioherzegovino	BAM	977
+BOTSUANA	Pula	BWP	072
+BRASIL	Real brasileño	BRL	986
+BRUNÉI DARUSSALAM	Dólar de Brunei	BND	096
+BULGARIA	Lev	BGN	975
+BURKINA FASO	Franco CFA de África Occidental	XOF	952
+BURUNDI	Franco burundés	BIF	108
+BUTÁN	Ngultrum butanés	BTN	064
+BUTÁN	Rupia india	INR	356
+BÉLGICA	Euro	EUR	978
+CABO VERDE	Escudo caboverdiano	CVE	132
+CAMBOYA	Riel camboyano	KHR	116
+CAMERÚN	Franco CFA de África Central	XAF	950
+CANADÁ	Dólar canadiense	CAD	124
+CHAD	Franco CFA de África Central	XAF	950
+CHILE	Unidad de Fomento	CLF	990
+CHILE	Peso chileno	CLP	152
+CHINA	Renminbi	CNY	156
+CHIPRE	Euro	EUR	978
+COLOMBIA	Peso colombiano	COP	170
+COLOMBIA	Unidad de valor real	COU	970
+COMORAS	Franco comorense	KMF	174
+CONGO (EL)	Franco CFA de África Central	XAF	950
+CONGO (REPÚBLICA DEMOCRÁTIC DEL)	Franco congoleño	CDF	976
+COSTA DE MARFIL	Franco CFA de África Occidental	XOF	952
+COSTA RICA	Colón costarricense	CRC	188
+CROACIA	Kuna	HRK	191
+CUBA	Peso convertible	CUC	931
+CUBA	Peso cubano	CUP	192
+CURAZAO	Florín antillano neerlandés	ANG	532
+DINAMARCA	Corona danesa	DKK	208
+DOMINICA	Dólar del Caribe Oriental	XCD	951
+ECUADOR	Dólar estadounidense	USD	840
+EGIPTO	Libra egipcia	EGP	818
+EL SALVADOR	Colón	SVC	222
+EL SALVADOR	Dólar estadounidense	USD	840
+EMIRATOS ÁRABES UNIDOS	Dirham DE EAU	AED	784
+ERITREA	Nakfa	ERN	232
+ESLOVAQUIA	Euro	EUR	978
+ESLOVENIA	Euro	EUR	978
+ESPAÑA	Euro	EUR	978
+ESTADO DE PALESTINA	Sin divisa universal		
+ESTADOS UNIDOS DE AMÉRICA	Dólar estadounidense	USD	840
+ESTADOS UNIDOS DE AMÉRICA	Dólar estadounidense (Next day)	USN	997
+ESTONIA	Euro	EUR	978
+ETIOPÍA	Birr etíope	ETB	230
+FIJI	Dólar fiyiano	FJD	242
+FILIPINAS	Peso filipino	PHP	608
+FINLANDIA	Euro	EUR	978
+FONDO MONETARIO INTERNACIONAL	SDR (Derecho Especial de Retiro)	XDR	960
+FRANCIA	Euro	EUR	978
+GABÓN	Franco CFA de África Central	XAF	950
+GAMBIA	Dalasi	GMD	270
+GEORGIA	Lari	GEL	981
+GHANA	Cedi	GHS	936
+GIBRALTAR	Libra gibraltareña	GIP	292
+GRANADA	Dólar del Caribe Oriental	XCD	951
+GRECIA	Euro	EUR	978
+GROENLANDIA	Corona danesa	DKK	208
+GUADALUPE	Euro	EUR	978
+GUAM	Dólar estadounidense	USD	840
+GUATEMALA	Quetzal	GTQ	320
+GUERNSEY	Libra esterlina	GBP	826
+GUINEA	Franco guineano	GNF	324
+GUINEA ECUATORIAL	Franco CFA de África Central	XAF	950
+GUINEA-BISSAU	Franco CFA de África Occidental	XOF	952
+GUYANA	Dólar guyanés	GYD	328
+GUYANA FRANCESA	Euro	EUR	978
+HAITÍ	Gourde	HTG	332
+HAITÍ	Dólar estadounidense	USD	840
+HOLANDA	Euro	EUR	978
+HONDURAS	Lempira	HNL	340
+HONG KONG	Dólar de Hong Kong	HKD	344
+HUNGRÍA	Forinto húngaro	HUF	348
+INDIA	Rupia india	INR	356
+INDONESIA	Rupia indonesia	IDR	360
+IRAK	Dinar iraquí	IQD	368
+IRLANDA	Euro	EUR	978
+ISLA BOUVET	Corona noruega	NOK	578
+ISLA DE MAN	Libra esterlina	GBP	826
+ISLA DE NAVIDAD	Dólar australiano	AUD	036
+ISLA NORFOLK	Dólar australiano	AUD	036
+ISLANDIA	Corona islandesa	ISK	352
+ISLAS CAIMÁN (LAS)	Dólar de las Islas Cayman	KYD	136
+ISLAS COCOS (KEELING)	Dólar australiano	AUD	036
+ISLAS COOK (LAS)	Dólar de la Islas Cook	NZD	554
+ISLAS FAROE	Corona danesa	DKK	208
+ISLAS GEORGIA DEL SUR Y SÁNDWICH DEL SUR	Sin divisa universal		
+ISLAS HEARD Y McDONALD	Dólar australiano	AUD	036
+ISLAS MALVINAS	Libra malvinense	FKP	238
+ISLAS MARIANS DEL NORTE	Dólar estadounidense	USD	840
+ISLAS MARSHALL	Dólar estadounidense	USD	840
+ISLAS SALOMÓN	Dólar de Islas Salomón	SBD	090
+ISLAS SVALBARD Y JAN MAYEN	Corona noruega	NOK	578
+ISLAS TURCOS Y CAICOS	Dólar estadounidense	USD	840
+ISLAS ULTRAMARINAS MENORES DE EE. UU.	Dólar estadounidense	USD	840
+ISLAS VÍRGENES (EEUU)	Dólar estadounidense	USD	840
+ISLAS VÍRGENES BRITÁNICAS	Dólar estadounidense	USD	840
+ISLAS ÅLAND	Euro	EUR	978
+ISRAEL	Nuevo séquel	ILS	376
+ITALIA	Euro	EUR	978
+JAMAICA	Dólar jamaiquino	JMD	388
+JAPÓN	Yen	JPY	392
+JERSEY	Libra esterlina	GBP	826
+JORDANIA	Dinar jordano	JOD	400
+KAZAJISTÁN	Tenge kazajo	KZT	398
+KENIA	Chelín keniano	KES	404
+KIRGUISTÁN	Som	KGS	417
+KIRIBATI	Dólar australiano	AUD	036
+KUWAIT	Dinar kuwaití	KWD	414
+LESOTO	Loti	LSL	426
+LESOTO	Rand	ZAR	710
+LETONIA	Euro	EUR	978
+LIBERIA	Dólar liberiano	LRD	430
+LIBIA	Dinar libio	LYD	434
+LIECHTENSTEIN	Franco suizo	CHF	756
+LITUANIA	Euro	EUR	978
+LUXEMBURGO	Euro	EUR	978
+LÍBANO	Libra libanesa	LBP	422
+MACAO	Pataca	MOP	446
+MACEDONIA	Dinar	MKD	807
+MADAGASCAR	Ariary malgache	MGA	969
+MALASIA	Ringgit malayo	MYR	458
+MALAWI	Kwacha malauí	MWK	454
+MALDIVAS	Rupia de maldivas	MVR	462
+MALTA	Euro	EUR	978
+MALÍ	Franco CFA de África Occidental	XOF	952
+MARRUECOS	Dírham marroquí	MAD	504
+MARTINICA	Euro	EUR	978
+MAURICIO	Rupia de Mauricio	MUR	480
+MAURITANIA	Uguiya	MRO	478
+MAYOTTE	Euro	EUR	978
+MICRONESIA	Dólar estadounidense	USD	840
+MONGOLIA	Tugrik	MNT	496
+MONTENEGRO	Euro	EUR	978
+MONTSERRAT	Dólar del Caribe oriental	XCD	951
+MOZAMBIQUE	Metical mozambiqueño	MZN	943
+MÉXICO	Peso mexicano	MXN	484
+MÉXICO	Unidad de Inversion Mexicana(UDI)	MXV	979
+MÓNACO	Euro	EUR	978
+NAMIBIA	Dólar de Namibia	NAD	516
+NAMIBIA	Rand	ZAR	710
+NAURU	Dólar australiano	AUD	036
+NEPAL	Rupia nepalí	NPR	524
+NICARAGUA	Córdoba oro	NIO	558
+NIGERIA	Franco CFA de África Occidental	XOF	952
+NIGERIA	Naira	NGN	566
+NIUE	Dólar neozelandés	NZD	554
+NORUEGA	Corona noruega	NOK	578
+NUEVA CALEDONIA	Franco CFP	XPF	953
+NUEVA ZELANDA	Dólar neozelandés	NZD	554
+OMÁN	Rial omaní	OMR	512
+PAISES MIEMBROS DEL BANCO AFRICANO DE DESARROLLO	BAD UNIDAD DE CUENTAS	XUA	965
+PAKISTÁN	Rupia pakistaní	PKR	586
+PALAU	Dólar estadounidense	USD	840
+PANAMÁ	Balboa	PAB	590
+PANAMÁ	Dólar estadounidense	USD	840
+PAPÚA NUEVA GUINEA	Kina	PGK	598
+PARAGUAY	Guaraní	PYG	600
+PERU	Nuevo Sol	PEN	604
+PITCAIRN	Dólar neozelandés	NZD	554
+POLINESIA FRANCESA	Franco CFP	XPF	953
+POLONIA	Zloty	PLN	985
+PORTUGAL	Euro	EUR	978
+PUERTO RICO	Dólar estadounidense	USD	840
+QATAR	Riyal catarí	QAR	634
+REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE	Libra esterlina	GBP	826
+REPUBLICA DEMOCRÁTICA POPULAR LAO	Kip laosiano	LAK	418
+REPÚBLICA BOLIVARIANA DE VENEZUELA	Bolívar	VEF	937
+REPÚBLICA CENTROAFRICANA (LA)	Franco CFA de África Central	XAF	950
+REPÚBLICA CHECA	Czech Koruna	CZK	203
+REPÚBLICA DE COREA DEL SUR	Won	KRW	410
+REPÚBLICA DE MOLDAVIA	Leu Moldavo	MDL	498
+REPÚBLICA DEMOCRATICA DE COREA DEL NORTE	Won norcoreano	KPW	408
+REPÚBLICA DOMINICANA	Peso dominicano	DOP	214
+REPÚBLICA ISLAMICA DE IRÁN	Rial iraní	IRR	364
+REPÚBLICA UNIDA DE TANZANIA	Chelín tanzano	TZS	834
+REPÚBLICA ÁRABE SIRIA	Libra siria	SYP	760
+REUNIÓN	Euro	EUR	978
+RUANDA	Franco ruandés	RWF	646
+RUMANIA	Leu rumano	RON	946
+RUSIA	Rublo ruso	RUB	643
+SAHARA OCCIDENTAL	Dirham marroquí	MAD	504
+SAMOA	Tala	WST	882
+SAMOA AMERICANA	Dólar estadounidense	USD	840
+SAN BARTOLOMÉ	Euro	EUR	978
+SAN CRISTÓBAL Y NIEVES	Dólar del Caribe oriental	XCD	951
+SAN MARINO	Euro	EUR	978
+SAN MARTÍN	Euro	EUR	978
+SAN MARTÍN (PARTE HOLANDESA)	Florín holandés	ANG	532
+SAN PEDRO Y MIQUELÓN	Euro	EUR	978
+SAN TOMÉ Y PRÍNCIPE	Dobra	STD	678
+SAN VICENTE Y LAS GRANADINAS	Dólar del Caribe oriental	XCD	951
+SANTA HELENA ASCENCIÓN Y TRISTÁN DE ACUÑA	Libra de Santa Helena	SHP	654
+SANTA LUCÍA	Dólar del Caribe oriental	XCD	951
+SANTA SEDE	Euro	EUR	978
+SENEGAL	Franco CFA de África Occidental	XOF	952
+SERBIA	Dinar serbio	RSD	941
+SEYCHELLES	Rupia de Seychelles	SCR	690
+SIERRA LEONA	Leone	SLL	694
+SINGAPUR	Dólar de Singapur	SGD	702
+SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS "SUCRE"	Sucre	XSU	994
+SOMALIA	Chelín somalí	SOS	706
+SRI LANKA	Rupia de Sri Lanka	LKR	144
+SUAZILANDIA	Lilangeni	SZL	748
+SUDÁFRICA	Rand	ZAR	710
+SUDÁN	Libra sudanesa	SDG	938
+SUDÁN DEL SUR	Libra sursudanesa	SSP	728
+SUECIA	Corona sueca	SEK	752
+SUIZA	WIR Euro	CHE	947
+SUIZA	Franco suizo	CHF	756
+SUIZA	Franco WIR	CHW	948
+SURINAM	Dólar de Surinam	SRD	968
+TAILANDIA	Baht	THB	764
+TAIWÁN (PROVINCIA DE CHINA)	Nuevo dólar de Taiwán	TWD	901
+TAJIKISTÁN	Somoni	TJS	972
+TERRITORIO BRITÁNICO DEL OCÉANO ÍNDICO	Dólar estadounidense	USD	840
+TERRITORIOS AUSTRALES FRANCESES	Euro	EUR	978
+TIMOR ORIENTAL	Dólar estadounidense	USD	840
+TOGO	Franco CFA de África Occidental	XOF	952
+TOKELAU	Dólar neozelandés	NZD	554
+TONGA	Pa’anga	TOP	776
+TRINIDAD Y TOBAGO	Dólar de Trinidad y Tobago	TTD	780
+TURMENISTÁN	Manat turcomano	TMT	934
+TURQUÍA	Lira turca	TRY	949
+TUVALU	Dólar tuvaluano	AUD	036
+TÚNEZ	Dinar tunecino	TND	788
+UGANDA	Chelín ugandés	UGX	800
+UKRANIA	Grivnia	UAH	980
+UNIÓN EUROPEA	Euro	EUR	978
+URUGUAY	Peso uruguayo en unidades indexadas (URUIURUI)	UYI	940
+URUGUAY	Peso uruguayo	UYU	858
+UZBEKISTÁN	Som uzbeko	UZS	860
+VANUATU	Vatu	VUV	548
+VIETNAM	Dong	VND	704
+WALLIS Y FUTUNA	Franco CFP	XPF	953
+YEMEN	Rial yemení	YER	886
+YIBUTI	Franco yibutiano	DJF	262
+ZAMBIA	Kwacha zambiano	ZMW	967
+ZIMBABUE	Dólar zimbabuense	ZWL	932
